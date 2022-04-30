@@ -1,0 +1,16 @@
+.post img{
+    width: 800px;
+}
+
+.feed{
+    text-align: center;
+    padding: 5%;
+}
+
+.newPost{
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+    margin: 0 auto;
+
+}
